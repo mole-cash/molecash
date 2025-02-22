@@ -8,11 +8,13 @@ https://mole.cash
 What is Mole?
 ----------------
 
-Mole is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Mole uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Mole Core is the name of open source
-software which enables the use of this currency.
+Mole is an experimental digital currency designed to enable instant payments to anyone, anywhere in the world. This means users can send and receive money quickly without the need for traditional financial intermediaries such as banks or other financial institutions. Mole aims to create a global, borderless, and low-cost payment system.
+
+One of the standout features of Mole is its use of peer-to-peer (P2P) technology. This technology allows the Mole network to operate without a central authority or controlling organization. Instead, all transactions and the issuance of currency are managed collectively by the network of users. This makes Mole a decentralized, transparent, and uncontrolled system by any individual or entity.
+
+Mole Core is the open-source software that serves as the core technological platform for operating the Mole currency. Being open-source, anyone can view, inspect, contribute to, or modify the source code of Mole Core, which enhances the system's transparency and reliability. Mole Core allows users to connect to the Mole network, conduct transactions, and participate in the transaction validation process (if they choose to run a node in the network).
+
+In summary, Mole is a digital currency project aimed at creating a global, fast, low-cost, and decentralized payment system. With peer-to-peer technology and the open-source Mole Core software, this project promises to bring financial freedom and accessibility to people worldwide.
 
 For more information, as well as an immediately useable, binary version of
 the Mole Core software, see [https://mole.cash](https://mole.cash).
