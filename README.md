@@ -28,7 +28,7 @@ information or see https://opensource.org/licenses/MIT.
 Development Process
 -------------------
 
-The `master` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
+The `main` branch is regularly built (see `doc/build-*.md` for instructions) and tested, but it is not guaranteed to be
 completely stable. [Tags](https://github.com/mole-cash/mole/tags) are created
 regularly from release branches to indicate new official, stable release versions of Mole Core.
 
@@ -49,10 +49,13 @@ Developer IRC can be found on Freenode at #mole-dev.
 Testing
 -------
 
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test on short notice. Please be patient and help out by testing
-other people's pull requests, and remember this is a security-critical project where any mistake might cost people
-lots of money.
+Testing and code review are critical components of the development process, but they have become a significant bottleneck in our workflow. The volume of pull requests we receive far exceeds our capacity to thoroughly review and test them in a timely manner. This situation creates delays and challenges in maintaining the pace of development while ensuring the quality and security of the codebase.
+
+Given the nature of this project, which is highly security-sensitive, every line of code must be meticulously examined to prevent vulnerabilities that could potentially lead to severe financial consequences for users. A single oversight or mistake could result in substantial monetary losses, making the review and testing process even more crucial.
+
+To address this bottleneck, we kindly ask for your patience and cooperation. If you have the capacity, please consider contributing by testing other people's pull requests. Your efforts in reviewing, testing, and providing feedback on proposed changes will not only help speed up the process but also enhance the overall reliability and security of the project. Collaborative efforts like these are essential in maintaining the integrity of a project where the stakes are so high.
+
+Remember, this is a community-driven initiative, and every contribution, no matter how small, plays a vital role in ensuring the project's success and safeguarding the interests of its users. Thank you for your understanding and support.
 
 ### Automated Testing
 
